@@ -1,3 +1,3 @@
 function calculateNumbers(var1, var2) {
-    console.log("HELLO WORLD !")
-}
+    return var1 + var2;
+};
